@@ -10,7 +10,7 @@ print("Hello")
 # In[2]:
 
 
-print("Hi")
+print("Hihi")
 
 
 # In[ ]:
